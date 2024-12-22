@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetDataFromWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+710bc587562d09ec77b81f4c4109e4e1f59c6634")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetDataFromWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetDataFromWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
